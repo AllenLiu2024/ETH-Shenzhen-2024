@@ -48,3 +48,4 @@ Telegram Mini App 在七月底上线之后，三周时间获得了 12 万月活�
 
 - Telegram: [TheStarAIBot](https://t.me/TheStarAIBot)
 - Ethereum: [Starland AI Events](https://starland.ai/events)
+- 联系我们：https://t.me/allen_web3
